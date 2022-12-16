@@ -69,8 +69,8 @@ Security error handling can become an extensive topic, I will cover it in anothe
 I am the co-founder of bytescan.net, a online service to control your code in terms of security issues, make sure you check it out for practical security reports!
 Moreover, you like this article, you can follow me on github and the following links as well:
 
-https://ashourics.medium.com/
-https://www.linkedin.com/in/drashouri/
-https://www.youtube.com/c/Heapzip
-https://ashoury.net/
+-https://ashourics.medium.com/
+-https://www.linkedin.com/in/drashouri/
+-https://www.youtube.com/c/Heapzip
+-https://ashoury.net/
  
